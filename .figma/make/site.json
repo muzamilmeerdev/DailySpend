@@ -1,0 +1,10 @@
+{
+  "description": "Track family contributions, expenses, and monthly balances in Indian rupees, with searchable records and shareable financial reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
