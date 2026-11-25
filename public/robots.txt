@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://dailymoneytrackcom.vercel.app/sitemap.xml
